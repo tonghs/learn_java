@@ -3,7 +3,12 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ArrayDemo/ArrayDemo.iml" filepath="$PROJECT_DIR$/ArrayDemo/ArrayDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ClassDemo/ClassDemo.iml" filepath="$PROJECT_DIR$/ClassDemo/ClassDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CollectionDemo/CollectionDemo.iml" filepath="$PROJECT_DIR$/CollectionDemo/CollectionDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InheritanceDemo/InheritanceDemo.iml" filepath="$PROJECT_DIR$/InheritanceDemo/InheritanceDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/MethodDemo/MethodDemo.iml" filepath="$PROJECT_DIR$/MethodDemo/MethodDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StringDemo/StringDemo.iml" filepath="$PROJECT_DIR$/StringDemo/StringDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StudentManagerSystem/StudentManagerSystem.iml" filepath="$PROJECT_DIR$/StudentManagerSystem/StudentManagerSystem.iml" />
       <module fileurl="file://$PROJECT_DIR$/day1/day1.iml" filepath="$PROJECT_DIR$/day1/day1.iml" />
       <module fileurl="file://$PROJECT_DIR$/learn_java.iml" filepath="$PROJECT_DIR$/learn_java.iml" />
     </modules>
