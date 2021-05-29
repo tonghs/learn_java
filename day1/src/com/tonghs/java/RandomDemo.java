@@ -1,3 +1,5 @@
+package com.tonghs.java;
+
 import java.util.Random;
 
 public class RandomDemo {

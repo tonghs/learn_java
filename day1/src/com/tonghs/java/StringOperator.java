@@ -1,3 +1,5 @@
+package com.tonghs.java;
+
 public class StringOperator {
     public static void main(String[] args) {
         int i = 10;
