@@ -11,5 +11,6 @@ public abstract class Animal {
 
     public void sleep() {
         System.out.println("睡觉");
+        eat();
     }
 }
