@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/ClassDemo/ClassDemo.iml" filepath="$PROJECT_DIR$/ClassDemo/ClassDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/CollectionDemo/CollectionDemo.iml" filepath="$PROJECT_DIR$/CollectionDemo/CollectionDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/InheritanceDemo/InheritanceDemo.iml" filepath="$PROJECT_DIR$/InheritanceDemo/InheritanceDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InterfaceDemo/InterfaceDemo.iml" filepath="$PROJECT_DIR$/InterfaceDemo/InterfaceDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/MethodDemo/MethodDemo.iml" filepath="$PROJECT_DIR$/MethodDemo/MethodDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/PackageDemo/PackageDemo.iml" filepath="$PROJECT_DIR$/PackageDemo/PackageDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/PolymorphismDemo/PolymorphismDemo.iml" filepath="$PROJECT_DIR$/PolymorphismDemo/PolymorphismDemo.iml" />
