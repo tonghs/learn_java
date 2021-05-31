@@ -17,5 +17,9 @@ public class Demo {
 
         Animal a = new Cat();
         Cat cc = (Cat)a;
+        ao.useAnimal(cc);
+
+        Cat ccc = new Cat();
+        ao.useAnimal(ccc);
     }
 }
