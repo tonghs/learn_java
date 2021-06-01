@@ -3,6 +3,7 @@ package com.tonghs.java.collection;
 import java.util.ArrayList;
 import java.util.Collection;
 import java.util.Iterator;
+import java.util.TreeSet;
 
 /**
  * CollectionDemo class
@@ -30,6 +31,17 @@ public class CollectionDemo {
         while (it.hasNext()) {
             String s = it.next();
             System.out.println(s);
+        }
+
+        TreeSet<Integer> ts = new TreeSet<>();
+        ts.add(10);
+        ts.add(40);
+        ts.add(30);
+        ts.add(50);
+        ts.add(20);
+
+        for(int i: ts) {
+            System.out.println(i);
         }
     }
 }
