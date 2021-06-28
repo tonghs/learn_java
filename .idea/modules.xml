@@ -2,31 +2,32 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/AbstractDemo/AbstractDemo.iml" filepath="$PROJECT_DIR$/AbstractDemo/AbstractDemo.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ArgsDemo/ArgsDemo.iml" filepath="$PROJECT_DIR$/ArgsDemo/ArgsDemo.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ArrayDemo/ArrayDemo.iml" filepath="$PROJECT_DIR$/ArrayDemo/ArrayDemo.iml" />
-      <module fileurl="file://$PROJECT_DIR$/CalendarDemo/CalendarDemo.iml" filepath="$PROJECT_DIR$/CalendarDemo/CalendarDemo.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ClassDemo/ClassDemo.iml" filepath="$PROJECT_DIR$/ClassDemo/ClassDemo.iml" />
-      <module fileurl="file://$PROJECT_DIR$/CollectionDemo/CollectionDemo.iml" filepath="$PROJECT_DIR$/CollectionDemo/CollectionDemo.iml" />
-      <module fileurl="file://$PROJECT_DIR$/CollectionsDemo/CollectionsDemo.iml" filepath="$PROJECT_DIR$/CollectionsDemo/CollectionsDemo.iml" />
-      <module fileurl="file://$PROJECT_DIR$/DateDemo/DateDemo.iml" filepath="$PROJECT_DIR$/DateDemo/DateDemo.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ExceptionDemo/ExceptionDemo.iml" filepath="$PROJECT_DIR$/ExceptionDemo/ExceptionDemo.iml" />
-      <module fileurl="file://$PROJECT_DIR$/FileDemo/FileDemo.iml" filepath="$PROJECT_DIR$/FileDemo/FileDemo.iml" />
-      <module fileurl="file://$PROJECT_DIR$/GenericDemo/GenericDemo.iml" filepath="$PROJECT_DIR$/GenericDemo/GenericDemo.iml" />
-      <module fileurl="file://$PROJECT_DIR$/InetAddressDemo/InetAddressDemo.iml" filepath="$PROJECT_DIR$/InetAddressDemo/InetAddressDemo.iml" />
-      <module fileurl="file://$PROJECT_DIR$/InheritanceDemo/InheritanceDemo.iml" filepath="$PROJECT_DIR$/InheritanceDemo/InheritanceDemo.iml" />
-      <module fileurl="file://$PROJECT_DIR$/InnerClassDemo/InnerClassDemo.iml" filepath="$PROJECT_DIR$/InnerClassDemo/InnerClassDemo.iml" />
-      <module fileurl="file://$PROJECT_DIR$/InterfaceDemo/InterfaceDemo.iml" filepath="$PROJECT_DIR$/InterfaceDemo/InterfaceDemo.iml" />
-      <module fileurl="file://$PROJECT_DIR$/MapDemo/MapDemo.iml" filepath="$PROJECT_DIR$/MapDemo/MapDemo.iml" />
-      <module fileurl="file://$PROJECT_DIR$/MethodDemo/MethodDemo.iml" filepath="$PROJECT_DIR$/MethodDemo/MethodDemo.iml" />
-      <module fileurl="file://$PROJECT_DIR$/PackageDemo/PackageDemo.iml" filepath="$PROJECT_DIR$/PackageDemo/PackageDemo.iml" />
-      <module fileurl="file://$PROJECT_DIR$/PokerGame1/PokerGame1.iml" filepath="$PROJECT_DIR$/PokerGame1/PokerGame1.iml" />
-      <module fileurl="file://$PROJECT_DIR$/PolymorphismDemo/PolymorphismDemo.iml" filepath="$PROJECT_DIR$/PolymorphismDemo/PolymorphismDemo.iml" />
-      <module fileurl="file://$PROJECT_DIR$/StringDemo/StringDemo.iml" filepath="$PROJECT_DIR$/StringDemo/StringDemo.iml" />
-      <module fileurl="file://$PROJECT_DIR$/StudentManagerSystem/StudentManagerSystem.iml" filepath="$PROJECT_DIR$/StudentManagerSystem/StudentManagerSystem.iml" />
-      <module fileurl="file://$PROJECT_DIR$/TCPDemo/TCPDemo.iml" filepath="$PROJECT_DIR$/TCPDemo/TCPDemo.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ThreadDemo/ThreadDemo.iml" filepath="$PROJECT_DIR$/ThreadDemo/ThreadDemo.iml" />
-      <module fileurl="file://$PROJECT_DIR$/day1/day1.iml" filepath="$PROJECT_DIR$/day1/day1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaSE/AbstractDemo/AbstractDemo.iml" filepath="$PROJECT_DIR$/JavaSE/AbstractDemo/AbstractDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaSE/ArgsDemo/ArgsDemo.iml" filepath="$PROJECT_DIR$/JavaSE/ArgsDemo/ArgsDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaSE/ArrayDemo/ArrayDemo.iml" filepath="$PROJECT_DIR$/JavaSE/ArrayDemo/ArrayDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaSE/CalendarDemo/CalendarDemo.iml" filepath="$PROJECT_DIR$/JavaSE/CalendarDemo/CalendarDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaSE/ClassDemo/ClassDemo.iml" filepath="$PROJECT_DIR$/JavaSE/ClassDemo/ClassDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaSE/CollectionDemo/CollectionDemo.iml" filepath="$PROJECT_DIR$/JavaSE/CollectionDemo/CollectionDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaSE/CollectionsDemo/CollectionsDemo.iml" filepath="$PROJECT_DIR$/JavaSE/CollectionsDemo/CollectionsDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaSE/DateDemo/DateDemo.iml" filepath="$PROJECT_DIR$/JavaSE/DateDemo/DateDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaSE/ExceptionDemo/ExceptionDemo.iml" filepath="$PROJECT_DIR$/JavaSE/ExceptionDemo/ExceptionDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaSE/FileDemo/FileDemo.iml" filepath="$PROJECT_DIR$/JavaSE/FileDemo/FileDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaSE/GenericDemo/GenericDemo.iml" filepath="$PROJECT_DIR$/JavaSE/GenericDemo/GenericDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaSE/InetAddressDemo/InetAddressDemo.iml" filepath="$PROJECT_DIR$/JavaSE/InetAddressDemo/InetAddressDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaSE/InheritanceDemo/InheritanceDemo.iml" filepath="$PROJECT_DIR$/JavaSE/InheritanceDemo/InheritanceDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaSE/InnerClassDemo/InnerClassDemo.iml" filepath="$PROJECT_DIR$/JavaSE/InnerClassDemo/InnerClassDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaSE/InterfaceDemo/InterfaceDemo.iml" filepath="$PROJECT_DIR$/JavaSE/InterfaceDemo/InterfaceDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaSE/LambdaDemo/LambdaDemo.iml" filepath="$PROJECT_DIR$/JavaSE/LambdaDemo/LambdaDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaSE/MapDemo/MapDemo.iml" filepath="$PROJECT_DIR$/JavaSE/MapDemo/MapDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaSE/MethodDemo/MethodDemo.iml" filepath="$PROJECT_DIR$/JavaSE/MethodDemo/MethodDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaSE/PackageDemo/PackageDemo.iml" filepath="$PROJECT_DIR$/JavaSE/PackageDemo/PackageDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaSE/PokerGame1/PokerGame1.iml" filepath="$PROJECT_DIR$/JavaSE/PokerGame1/PokerGame1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaSE/PolymorphismDemo/PolymorphismDemo.iml" filepath="$PROJECT_DIR$/JavaSE/PolymorphismDemo/PolymorphismDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaSE/StringDemo/StringDemo.iml" filepath="$PROJECT_DIR$/JavaSE/StringDemo/StringDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaSE/StudentManagerSystem/StudentManagerSystem.iml" filepath="$PROJECT_DIR$/JavaSE/StudentManagerSystem/StudentManagerSystem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaSE/TCPDemo/TCPDemo.iml" filepath="$PROJECT_DIR$/JavaSE/TCPDemo/TCPDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaSE/ThreadDemo/ThreadDemo.iml" filepath="$PROJECT_DIR$/JavaSE/ThreadDemo/ThreadDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaSE/day1/day1.iml" filepath="$PROJECT_DIR$/JavaSE/day1/day1.iml" />
       <module fileurl="file://$PROJECT_DIR$/learn_java.iml" filepath="$PROJECT_DIR$/learn_java.iml" />
     </modules>
   </component>

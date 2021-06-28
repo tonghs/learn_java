@@ -1,6 +1,5 @@
 package com.tonghs.java.exception_demo;
 
-import java.net.SocketException;
 import java.util.Scanner;
 
 /**
