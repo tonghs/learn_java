@@ -17,7 +17,8 @@
       <module fileurl="file://$PROJECT_DIR$/JavaSE/InheritanceDemo/InheritanceDemo.iml" filepath="$PROJECT_DIR$/JavaSE/InheritanceDemo/InheritanceDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaSE/InnerClassDemo/InnerClassDemo.iml" filepath="$PROJECT_DIR$/JavaSE/InnerClassDemo/InnerClassDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaSE/InterfaceDemo/InterfaceDemo.iml" filepath="$PROJECT_DIR$/JavaSE/InterfaceDemo/InterfaceDemo.iml" />
-      <module fileurl="file://$PROJECT_DIR$/JDBCDemo/JDBCDemo.iml" filepath="$PROJECT_DIR$/JDBCDemo/JDBCDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaWeb/JDBCDemo/JDBCDemo.iml" filepath="$PROJECT_DIR$/JavaWeb/JDBCDemo/JDBCDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaEE/JavaEE.iml" filepath="$PROJECT_DIR$/JavaEE/JavaEE.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaWeb/JunitDemo/JunitDemo.iml" filepath="$PROJECT_DIR$/JavaWeb/JunitDemo/JunitDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaSE/LambdaDemo/LambdaDemo.iml" filepath="$PROJECT_DIR$/JavaSE/LambdaDemo/LambdaDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaSE/MapDemo/MapDemo.iml" filepath="$PROJECT_DIR$/JavaSE/MapDemo/MapDemo.iml" />
@@ -26,7 +27,7 @@
       <module fileurl="file://$PROJECT_DIR$/JavaSE/PokerGame1/PokerGame1.iml" filepath="$PROJECT_DIR$/JavaSE/PokerGame1/PokerGame1.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaSE/PolymorphismDemo/PolymorphismDemo.iml" filepath="$PROJECT_DIR$/JavaSE/PolymorphismDemo/PolymorphismDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaWeb/ReflectionDemo/ReflectionDemo.iml" filepath="$PROJECT_DIR$/JavaWeb/ReflectionDemo/ReflectionDemo.iml" />
-      <module fileurl="file://$PROJECT_DIR$/SpringJDBC/SpringJDBC.iml" filepath="$PROJECT_DIR$/SpringJDBC/SpringJDBC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaWeb/SpringJDBC/SpringJDBC.iml" filepath="$PROJECT_DIR$/JavaWeb/SpringJDBC/SpringJDBC.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaSE/StringDemo/StringDemo.iml" filepath="$PROJECT_DIR$/JavaSE/StringDemo/StringDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaSE/StudentManagerSystem/StudentManagerSystem.iml" filepath="$PROJECT_DIR$/JavaSE/StudentManagerSystem/StudentManagerSystem.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaSE/TCPDemo/TCPDemo.iml" filepath="$PROJECT_DIR$/JavaSE/TCPDemo/TCPDemo.iml" />
