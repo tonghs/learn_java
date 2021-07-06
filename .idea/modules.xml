@@ -25,7 +25,8 @@
       <module fileurl="file://$PROJECT_DIR$/JavaSE/PackageDemo/PackageDemo.iml" filepath="$PROJECT_DIR$/JavaSE/PackageDemo/PackageDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaSE/PokerGame1/PokerGame1.iml" filepath="$PROJECT_DIR$/JavaSE/PokerGame1/PokerGame1.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaSE/PolymorphismDemo/PolymorphismDemo.iml" filepath="$PROJECT_DIR$/JavaSE/PolymorphismDemo/PolymorphismDemo.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ReflectionDemo/ReflectionDemo.iml" filepath="$PROJECT_DIR$/ReflectionDemo/ReflectionDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaWeb/ReflectionDemo/ReflectionDemo.iml" filepath="$PROJECT_DIR$/JavaWeb/ReflectionDemo/ReflectionDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringJDBC/SpringJDBC.iml" filepath="$PROJECT_DIR$/SpringJDBC/SpringJDBC.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaSE/StringDemo/StringDemo.iml" filepath="$PROJECT_DIR$/JavaSE/StringDemo/StringDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaSE/StudentManagerSystem/StudentManagerSystem.iml" filepath="$PROJECT_DIR$/JavaSE/StudentManagerSystem/StudentManagerSystem.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaSE/TCPDemo/TCPDemo.iml" filepath="$PROJECT_DIR$/JavaSE/TCPDemo/TCPDemo.iml" />
