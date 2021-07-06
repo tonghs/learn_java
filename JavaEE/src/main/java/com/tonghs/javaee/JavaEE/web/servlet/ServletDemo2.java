@@ -11,7 +11,8 @@ import java.io.IOException;
  */
 public class ServletDemo2 implements Servlet {
     /**
-     * 创建时执行
+     * 创建时执行，只执行一次，servlet 时单例的
+     * 多个用户同时反问时，可能有现成安全问题，激励那个不要在 servlet 中定义成员变量。即使定义成员变量，也不用对其进行写操作。
      * @param servletConfig
      * @throws ServletException
      */

@@ -16,6 +16,12 @@
     <servlet>
         <servlet-name>demo2</servlet-name>
         <servlet-class>com.tonghs.javaee.JavaEE.web.servlet.ServletDemo2</servlet-class>
+        <!--
+            制定 servlet 的创建时期
+             - 负数表示第一次启动时访问
+             - 0 或者正整数表示服务器启动时创建
+        -->
+        <load-on-startup>-5</load-on-startup>
     </servlet>
     <servlet-mapping>
         <servlet-name>demo2</servlet-name>
