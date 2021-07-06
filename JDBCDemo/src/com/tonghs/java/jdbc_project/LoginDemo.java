@@ -2,10 +2,7 @@ package com.tonghs.java.jdbc_project;
 
 import com.tonghs.java.jdbc_demo.JDBCUtil;
 
-import java.sql.Connection;
-import java.sql.ResultSet;
-import java.sql.SQLException;
-import java.sql.Statement;
+import java.sql.*;
 import java.util.Scanner;
 
 /**
@@ -38,14 +35,16 @@ public class LoginDemo {
         }
 
         Connection conn = null;
-        Statement stmt = null;
+        PreparedStatement stmt = null;
         ResultSet rs = null;
         try {
             conn = JDBCUtil.getConnection();
-            String sql = "select * from user where username='" + username + "' and password = '" + password + "'";
-            stmt = conn.createStatement();
-            rs = stmt.executeQuery(sql);
+            String sql = "select * from user where username= ? and password = ?";
+            stmt = conn.prepareStatement(sql);
+            stmt.setString(1, username);
+            stmt.setString(2, password);
 
+            rs = stmt.executeQuery();
             return rs.next();
         } catch (SQLException e) {
             e.printStackTrace();
