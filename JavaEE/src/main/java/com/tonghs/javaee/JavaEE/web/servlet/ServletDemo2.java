@@ -20,6 +20,10 @@ public class ServletDemo2 implements Servlet {
         System.out.println("init ....");
     }
 
+    /**
+     * 获取 servlet 配置对象
+     * @return
+     */
     @Override
     public ServletConfig getServletConfig() {
         return null;
@@ -37,6 +41,10 @@ public class ServletDemo2 implements Servlet {
         System.out.println("service ......");
     }
 
+    /**
+     * 获取 servlet 信息，比如版本，作者等等
+     * @return
+     */
     @Override
     public String getServletInfo() {
         return null;
